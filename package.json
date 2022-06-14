@@ -1,0 +1,16 @@
+{
+  "name": "@baoxiaohe/web-component",
+  "version": "1.0.0",
+  "description": " bxh-web-components",
+  "main": "dist/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "tsc -w",
+    "build": "tsc"
+  },
+  "author": "miaocunhui",
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "^4.7.3"
+  }
+}
